@@ -17,7 +17,7 @@ This project is built for educational purposes to deeply understand:
 - Why Transformers outperform RNNs
 - Internal architecture of encoder-decoder models
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.8+
 - PyTorch (recommended)
